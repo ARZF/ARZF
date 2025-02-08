@@ -35,8 +35,31 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" wi
-
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center"  width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter NoteBook
+    </td>
+    <td align="center"  width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" />
+      <br>Google Colab
+    </td>
+  </tr>
+</table>
+</div>
 
 ### :mailbox: Contact me: 
 <div id="badges" align="center">
