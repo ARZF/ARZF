@@ -36,3 +36,17 @@
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" wi
+
+
+### :mailbox: Contact me: 
+<div id="badges" align="center">
+  <a href="mailto:aarzfamirreza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amirreza-faramarzi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARZF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
