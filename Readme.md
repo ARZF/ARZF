@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="http://www.w3.org/2000/svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       </a>
       <br>Git
     </td>
