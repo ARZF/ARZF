@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 ## Hi There, I'm Amirreza
-
+I'm an enthusiastic Python developer, working on AI and data-driven projects, with prior experience in backend development, building scalable applications and APIs.
 # Languages & Technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -45,7 +45,7 @@
       </a>
       <br>Django
     </td><td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit Learn" />
       <br>Scikit-Learn
     </td>
   </tr>
