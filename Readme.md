@@ -63,6 +63,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Colab" />
       <br>Google Colab
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="opencv" />
+      <br>opencv
+    </td>
   </tr>
 </table>
 </div>
