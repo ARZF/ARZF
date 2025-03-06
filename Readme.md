@@ -46,7 +46,7 @@ I'm an enthusiastic Python developer, working on AI and data-driven projects, wi
       <br>Django
     </td><td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit Learn" />
-      <br>Scikit-Learn
+      <br>Scikit Learn
     </td>
   </tr>
   <tr>
