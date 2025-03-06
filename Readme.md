@@ -52,8 +52,12 @@
       <br>SQLite
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
-      <br>postgres
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
