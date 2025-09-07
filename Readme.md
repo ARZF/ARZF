@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 ## Hi There, I'm Amirreza
-I'm an enthusiastic Python developer, working as an AI Developer and Data Engineer, with prior experience in backend development.
+I'm an enthusiastic developer, working as an AI Software Engineer.
 # Languages & Technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
