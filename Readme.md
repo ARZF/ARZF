@@ -11,8 +11,8 @@ I'm an enthusiastic **AI Software Engineer** dedicated to building intelligent s
 
 ### 🚀 About Me
 - 🔭 **I’m currently working on:** Building intelligent backend systems and fine-tuning AI workflows.
-- 🌱 **I’m currently learning:** Advanced MLOps practices, large language model (LLM) agent frameworks, and deep learning optimization.
-- 💬 **Ask me about:** Python development, machine learning pipelines, Django, and computer vision.
+- 🌱 **I’m currently learning:** **Go (Golang)** for high-performance backend systems, advanced MLOps practices, and deep learning optimization.
+- 💬 **Ask me about:** Python development, machine learning pipelines, Django, FastAPI, and computer vision.
 
 ---
 
@@ -25,10 +25,10 @@ I'm an enthusiastic **AI Software Engineer** dedicated to building intelligent s
   </a>
 </p>
 
-#### 🐍 Backend & Database
+#### 🐍 Backend, Systems & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,rabbitmq" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=python,go,fastapi,django,postgres,sqlite,rabbitmq" alt="Backend Stack" />
   </a>
 </p>
 
